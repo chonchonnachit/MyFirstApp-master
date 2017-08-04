@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RMUTSV</string>
+    <string name="Username"></string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <color name="Blue">#9933FF</color>
+    <color name="Red">#996633</color>
+</resources>
